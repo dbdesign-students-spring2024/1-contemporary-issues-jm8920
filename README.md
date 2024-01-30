@@ -1,6 +1,6 @@
 # Contemporary Issues In Data
 # Xfinity Discloses Data Breach Affecting Over 35 Million People
-In this document, I discuss two articles about a data-related issue: In December 2023, Xfinity reported a data breach affecting over 35 million customers. The stolen data included sensitive personal information, such as partial Social Security numbers, contact information, and dates of birth. Two newspaper articles offer insights into the incident with different focuses and main opinions.
+In December 2023, Xfinity reported a data breach affecting over 35 million customers. The stolen data included sensitive personal information, such as partial Social Security numbers, contact information, and dates of birth. There are two newspaper articles offer insights into this incident with different focuses and main opinions.
 
 ## Article 1
 In The Columbian's [Xfinity notifies its customers of data breach linked to software vulnerability](https://www.columbian.com/news/2023/dec/19/xfinity-notifies-its-customers-of-data-breach-linked-to-software-vulnerability/), The Columbian provided the detailed description of the data breach. The Columbian reported that hackers exploited a vulnerability in software used by Comcast's telecommunications business, Xfinity. The breach occurred between October 16 and 19 and was discovered on October 25. Xfinity confirmed that usernames and hashed passwords were acquired, and for some customers, additional data such as the last four digits of Social Security numbers, birthdates, and contact information were also compromised.
